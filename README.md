@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wangbax
 - 👀 I’m interested in Coding & Game
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning AIGC
 - 📫 How to reach me wt1098078873@gmail.com
 
 <!---
